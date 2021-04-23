@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+
+.myClass {
+    margin-top: 10px;
+    background-color: rgb(236, 18, 164);
+}
+
+#myIdForH4 {
+    color: blueviolet;
+    background-color: #fff;
+}
+
+#myIdForH5 {
+    color: rgb(8, 121, 129);
+}
+
+#btn {
+    color: rgb(73, 219, 44);
+    background-color: rgb(1, 9, 17);
+}
